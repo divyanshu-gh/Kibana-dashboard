@@ -19,7 +19,7 @@ Kibana's built-in sample dataset for eCommerce, which includes order details, cu
 - Orders by Country (Map)
 
 ## Dashboard preview
-![Kibana dashboard] (Dashboard-screenshot.jpeg)
+![Kibana dashboard](Dashboard-screenshot.jpeg)
 ## Setup Instructions
 1. Clone the repository:
    ```bash
