@@ -43,12 +43,4 @@ Kibana's built-in sample dataset for eCommerce, which includes order details, cu
 ## Project Purpose
 This dashboard provides a quick overview of product sales, customer demographics, and order trends, which are valuable for any eCommerce business to make informed decisions.
 
-## Demo
-Loom Video: [Add your Loom link here]
 
-## Author
-Harsh
-
----
-
-\*Logstash was not used in this demo as data was directly imported through Kibana UI.
