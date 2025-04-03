@@ -17,8 +17,9 @@ Kibana's built-in sample dataset for eCommerce, which includes order details, cu
 - Top Selling Products by Revenue (Bar Chart)
 - Revenue Over Time (Line Chart)
 - Orders by Country (Map)
-- Orders by Day and Category (Data Table)
 
+## Dashboard preview
+![Kibana dashboard] (Dashboard-screenshot.jpeg)
 ## Setup Instructions
 1. Clone the repository:
    ```bash
